@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace coolOrange_CandidateChallenge
 {
-    class Program
+    public class TaskDriver
     {
         static void Main(string[] args)
         {
